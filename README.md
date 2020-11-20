@@ -1,0 +1,1 @@
+This is Jong's first git project!
